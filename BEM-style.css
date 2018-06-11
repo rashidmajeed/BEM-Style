@@ -1,0 +1,66 @@
+
+body{
+    font-family: Arial;
+    width: 900px;
+    margin: 0 auto;
+    background: #f3bd66;
+    color: #f5f5f5;
+    margin-top: 60px;
+}
+h1{
+    text-align: center;
+}
+
+.Development__article{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    background: rgba(255,255,255,.9);
+    color: #222;
+    padding: 1em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+
+.Development__article{
+    background: rgb(118, 134, 224);
+    color: white;
+}
+
+.Development__article--pink{
+    background: pink;
+    color: white;
+}
+
+
+.article__article-post__article-main{
+    font-size: 1.1em;
+}
+
+.article__user-bio{
+    margin-right: 1em;
+}
+
+.article__user-bio__avatar{
+    margin-top: 1.5em;
+    width: 100px;
+    height: 100px;
+     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.article__user-bio__username{
+    text-align: center;
+    font-weight: bold;
+}
+
+.avatar--circle{
+    border-radius: 50%;
+}
+
+
+
+
